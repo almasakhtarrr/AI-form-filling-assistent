@@ -1,0 +1,7 @@
+tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-eng
+tesseract-ocr-mar
+libgl1
+poppler-utils
+ffmpeg
